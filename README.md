@@ -8,13 +8,19 @@ For installing metasploit successfully copy and paste this code in termux:
 
 CODE:-
 
+pkg update && pkg upgrade -y
+
+pkg install python && pkg install python2
+
 git clone https://github.com/Adia12528/Metaploit-Framework_6.git
 
 cd Metasploit-Framework_6
 
 ls
 
-Chmod +x metasploit_2022_full-version.py
+chmod +x metasploit_2022_full-version.py
+
+python metasploit_2022_full-version.py
 
 Wait for 15-20 min for installation to be done.
 
