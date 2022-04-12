@@ -14,7 +14,7 @@ pkg install python && pkg install python2
 
 git clone https://github.com/Adia12528/Metasploit-Framework_6.git
 
-cd Metasploit-Framework_6
+cd metaploit-framework
 
 ls
 
