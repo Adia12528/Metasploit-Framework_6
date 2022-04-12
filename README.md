@@ -18,7 +18,7 @@ cd Metasploit-Framework_6
 
 ls
 
-chmod +x metasploit_2022_full-version.py
+chmod +x metasploit_2022_full_version.py
 
 python metasploit_2022_full_version.py
 
