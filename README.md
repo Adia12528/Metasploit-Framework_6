@@ -22,6 +22,6 @@ chmod +x Metasploit-Framework_2022_full_version.py
 
 python Metasploit-Framework_2022_full_version.py
 
-Wait for 15-20 min for installation to be done.
+Wait for 20-25 min for installation to be done.
 
 Install with ZERO error.
