@@ -18,9 +18,9 @@ cd Metasploit-Framework_6
 
 ls
 
-chmod +x metasploit_2022_full_version.py
+chmod +x Metasploit-Framework_2022_full_version.py
 
-python metasploit_2022_full_version.py
+python Metasploit-Framework_2022_full_version.py
 
 Wait for 15-20 min for installation to be done.
 
