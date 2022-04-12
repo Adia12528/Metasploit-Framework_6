@@ -12,7 +12,7 @@ pkg update && pkg upgrade -y
 
 pkg install python && pkg install python2
 
-git clone https://github.com/Adia12528/Metaploit-Framework_6.git
+git clone https://github.com/Adia12528/Metasploit-Framework_6.git
 
 cd Metasploit-Framework_6
 
