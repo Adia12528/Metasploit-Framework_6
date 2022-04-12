@@ -6,7 +6,8 @@ Go to code any just install the tool and run it in termux it will install metasp
 
 For installing metasploit successfully copy and paste this code in termux: 
 
-CODE:
+CODE:-
+
 git clone https://github.com/Adia12528/Metaploit-Framework_6.git
 
 cd Metasploit-Framework_6
