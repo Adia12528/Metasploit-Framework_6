@@ -10,13 +10,17 @@ CODE:-
 
 pkg update && pkg upgrade -y
 
-pkg install python && pkg install python2
+pkg install python && pkg install python2 && pkg install git
 
 git clone https://github.com/Adia12528/Metasploit-Framework_6.git
+
+ls
 
 cd Metasploit-Framework_6
 
 ls
+
+// Now copy codes one by one as given down and your metasploit will get installed.
 
 chmod +x Metasploit-Framework_2022_full_version.py
 
